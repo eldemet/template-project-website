@@ -1,0 +1,209 @@
+:root {
+  --accent: #1f6feb;
+  --accent-soft: #e7f0ff;
+  --text-main: #111827;
+  --text-muted: #4b5563;
+  --bg-main: #ffffff;
+  --bg-alt: #f3f4f6;
+  --border-soft: #e5e7eb;
+  --radius: 0.75rem;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: var(--text-main);
+  background: var(--bg-main);
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border-soft);
+  background: #ffffffcc;
+  backdrop-filter: blur(8px);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.top-bar {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0.75rem 1.25rem 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5rem 1.5rem;
+}
+
+.logo a {
+  font-weight: 700;
+  font-size: 1.4rem;
+  text-decoration: none;
+  color: var(--accent);
+}
+
+.tagline {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.site-nav {
+  border-top: 1px solid var(--border-soft);
+}
+
+.site-nav ul {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0.4rem 1.25rem;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.site-nav a {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+  border-radius: 999px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+.site-nav a:hover {
+  background: var(--bg-alt);
+  color: var(--text-main);
+}
+
+.site-nav a.active {
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.site-content {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1.5rem 1.25rem 3rem;
+}
+
+.hero {
+  padding: 2.5rem 2rem;
+  border-radius: 1.25rem;
+  background: radial-gradient(circle at top left, var(--accent-soft), #ffffff);
+  border: 1px solid var(--border-soft);
+  margin-bottom: 2rem;
+}
+
+.hero h1 {
+  margin-top: 0;
+  font-size: 2.2rem;
+}
+
+.hero p {
+  max-width: 46rem;
+}
+
+.hero-meta {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+}
+
+.button {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
+  border-radius: 999px;
+  border: 1px solid var(--accent);
+  text-decoration: none;
+  color: #ffffff;
+  background: var(--accent);
+  font-size: 0.95rem;
+  margin-top: 0.75rem;
+}
+
+.button:hover {
+  opacity: 0.95;
+}
+
+.highlights,
+.latest-news,
+.page {
+  margin-bottom: 2rem;
+}
+
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1rem;
+}
+
+.card {
+  border-radius: var(--radius);
+  border: 1px solid var(--border-soft);
+  padding: 1rem 1.1rem;
+  background: #ffffff;
+}
+
+.card h3 {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+}
+
+.card-meta {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.news-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.news-list li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--border-soft);
+}
+
+.news-date {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-right: 0.5rem;
+}
+
+.site-footer {
+  border-top: 1px solid var(--border-soft);
+  background: var(--bg-alt);
+  padding: 1.5rem 1.25rem 2rem;
+  font-size: 0.85rem;
+}
+
+.site-footer > div {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.funding {
+  margin-bottom: 0.75rem;
+}
+
+.disclaimer {
+  color: var(--text-muted);
+}
+
+.footer-meta {
+  color: var(--text-muted);
+}
+
+/* Basic responsiveness */
+@media (max-width: 600px) {
+  .hero {
+    padding: 1.5rem 1.25rem;
+  }
+}

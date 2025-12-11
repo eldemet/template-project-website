@@ -1,0 +1,7 @@
+title: "SPRING Doctoral Network"
+description: "SPRING: Doctoral Network for resilience experts in future large-scale critical infrastructures."
+baseurl: "" 
+url: "" 
+markdown: kramdown
+theme: null
+plugins: []
