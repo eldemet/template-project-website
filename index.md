@@ -7,8 +7,7 @@ permalink: /
 <section class="hero">
   <h1>MSCA SPRING Doctoral Network</h1>
   <p>
-    Preparing the next generation of resilience experts for future
-    large-scale critical infrastructures through a Europe-wide doctoral training network.
+    Preparing the next generation experts in critical entities resilience design.
   </p>
   <p class="hero-meta">
     Horizon Europe – Marie Skłodowska-Curie Actions (MSCA) Doctoral Network<br>
@@ -27,9 +26,11 @@ permalink: /
 <section class="highlights">
   <h2>What is SPRING?</h2>
   <p class="section-intro">
-    SPRING is a Marie Skłodowska-Curie Doctoral Network that brings together universities, research institutes and industrial partners to train 15 Doctoral Candidates (DCs) in the modelling, design and operation of resilient, cyber-secure large-scale critical infrastructures.
-
-    The network focuses on anticipatory self-adaptation, human-interpretable diagnosis and risk-aware incident response in geographically distributed systems of cyber-physical systems.
+    The project aims to develop an innovative research and training programme to train fifteen doctoral candidates, who will collectively engage in an ambitious interdisciplinary research project focusing on aspects related to the resilience design, real-time monitoring and control, anomaly detection and isolation, and incident response, in geographically distributed systems of cyber-physical systems. 
+    
+    The PhD topics will investigate open research questions about the use of systems and control theory, formal methods, explainable AI, data-driven approaches, and human-centered design to build safe and resilient societal-scale critical entities. The project will also promote industrial excellence by offering opportunities to the researchers for testing their tools and frameworks in real-world scenarios, provided by the industrial partners. 
+    
+    In this line, industrial partners will provide scenarios focusing on water, energy and transportation services, inspired by a real deployment using state-of-the-art and innovative IoT components. The research outcomes that will be validated in the context of these use cases will be reusable with other critical entities in other sectors.
   </p>
 </section>
 

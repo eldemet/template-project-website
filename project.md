@@ -15,36 +15,26 @@ anticipate disruptions, withstand them, adapt safely and recover quickly.
 
 ## Objectives
 
-- Develop modelling and analysis tools to understand cascading failures, interdependencies and
-  vulnerabilities in large-scale critical infrastructures.
-- Design innovative monitoring, diagnosis and incident-response strategies to maintain safe and
-  reliable operation under disturbances, faults and attacks.
-- Provide human-interpretable explanations and decision-support tools that help operators
-  understand system behaviour and trust automated functions.
-- Train a cohort of 15 Doctoral Candidates (DCs) with interdisciplinary skills spanning
-  systems & control, formal methods, artificial intelligence, cyber security and infrastructure
-  engineering.
-- Build demonstrators and reference implementations on realistic use cases in water, energy and
-  transport that showcase “resilience-by-design” approaches.
-- Strengthen collaboration between academia, industry and operators of critical infrastructures,
-  ensuring that research outputs can be taken up in real deployments.
+- Develop defense mechanisms that ensure allostasis-like anticipatory self-adaptability-by-design in future Critical Infrastructures.
+- Develop fast and highly automatized human-interpretable diagnosis solutions for future Critical Infrastructures.
+- Develop scalable techniques for real-time risk-aware incident response for future Critical Infrastructures that maintain operational system safety and performance during recovery. 
+- Develop a long-lasting library of agents that provide resilience as a service to boost adoption of resilience design in future Critical Infrastructures in energy supply, water distribution, and transportation systems.
+- Develop sustainable training material and promote the use of the library of agents (HTO) to ensure resilient designs in future Critical Infrastructures. 
+- Bridge the gap between academic research and industrial practice in the field of Critical Infrastructures resilience.
+- Experiment with and validate key enabling technologies and methods such as formal methods, explainable AI, and human-centered design, in real business scenarios and industrial infrastructures.
 
 ## Work Packages
 
-- **WP1 – Anticipatory self-adaptability of critical infrastructures**  
-  Develop defence and adaptation mechanisms that enable future critical infrastructures to
-  anticipate threats and autonomously reconfigure while preserving safety and performance.
+- **WP1 – Allostasis-like anticipatory self-adaptability-by-design**  
 
-- **WP2 – Human-interpretable diagnosis for operators**  
-  Create methods for detecting, localising and explaining anomalies, failures and attacks in
-  large-scale cyber-physical systems, with outputs that are understandable and trustworthy for
-  human operators.
+- **WP2 – Human-interpretable diagnosis**  
 
 - **WP3 – Real-time and risk-aware incident response**  
-  Design scalable techniques for real-time incident response in systems of cyber-physical
-  systems, balancing safety, performance and resilience during and after disruptive events.
 
-- **WP4 – Reference scenarios, testbeds and resilience library**  
-  Define reference scenarios and testbeds in water, energy and transport; integrate and evaluate
-  the methods developed in WP1–WP3; and build a reusable software library of resilience
-  “agents”, together with guidelines and blueprints for adoption in industrial practice.
+- **WP4 – Reference scenarios, testbeds, software library and best practices for  resilient CI design**  
+
+- **WP5 - Recruitment and training**  
+
+- **WP6 - Communication, dissemination and exploitation**  
+
+- **WP7 - Project coordination** 

@@ -15,34 +15,25 @@ permalink: /people/
 
 ## Beneficiaries
 
-These are the SPRING beneficiaries (PhD-recruiting institutions):
+These are the SPRING beneficiaries:
 
-- **UOR – Université d’Orléans (France)**  
-  PRISME Research Center – Project Coordinator
+- **PRISME Research Center, Université d’Orléans (France) - Project Coordinator**  
 
-- **UOL – Carl von Ossietzky Universität Oldenburg (Germany)**  
-  Department of Computing Science 
+- **Department of Computing Science, Carl von Ossietzky Universität Oldenburg (Germany)**  
 
-- **UNIBI – Universität Bielefeld (Germany)**  
-  Center for Cognitive Interaction Technology 
+- **Center for Cognitive Interaction Technology, Universität Bielefeld (Germany)**  
 
-- **UiO – University of Oslo (Norway)**  
-  Department of Informatics 
+- **Department of Informatics, University of Oslo (Norway)**  
 
-- **TUG – Graz University of Technology (Austria)**  
-  Institute for Information Processing and Communication 
+- **Institute for Information Processing and Communication, Graz University of Technology (Austria)**  
 
-- **UCY – University of Cyprus (Cyprus)**  
-  KIOS Research and Innovation Center of Excellence
+- **KIOS Research and Innovation Center of Excellence, University of Cyprus (Cyprus)**  
+  
+- **SingularLogic S.A. (Greece)**  
 
-- **SLG – SingularLogic S.A. (Greece)**  
-  European Projects Department 
+- **Eight Bells Ltd (Cyprus)**  
 
-- **8BEL – Eight Bells Ltd (Cyprus)**  
-  R&D Department 
-
-- **HMT – Humatects GmbH (Germany)**  
-  R&D Department
+- **Humatects GmbH (Germany)**  
 
 ---
 
@@ -51,19 +42,18 @@ These are the SPRING beneficiaries (PhD-recruiting institutions):
 SPRING is supported by a strong network of associated academic and industrial partners, which contribute
 use cases, secondments, testbeds and training:
 
-- **SIEMENS – Siemens Mobility GmbH (Germany)** 
-- **SINTEF – SINTEF AS (Norway)** 
-- **AVL – AVL List GmbH (Austria)** 
-- **EAC – Electricity Authority of Cyprus (Cyprus)** 
-- **HRI – Honda Research Institute Europe GmbH (Germany)** 
-- **EDF – Électricité de France (France)** 
-- **CNRS – Centre National de la Recherche Scientifique (France)** 
-- **Science Tokyo – Institute of Science Tokyo (Japan)** 
-- **SPH – Space Hellas S.A. (Greece)** 
-- **SONE – Sense One Technologies (Greece)** 
+- **Siemens Mobility GmbH (Germany)** 
+- **SINTEF AS (Norway)** 
+- **AVL List GmbH (Austria)** 
+- **Electricity Authority of Cyprus (Cyprus)** 
+- **Honda Research Institute Europe GmbH (Germany)** 
+- **Électricité de France (France)** 
+- **Centre National de la Recherche Scientifique (France)** 
+- **Institute of Science Tokyo (Japan)** 
+- **Space Hellas S.A. (Greece)** 
+- **Sense One Technologies (Greece)** 
 
 ---
-
 
 <p>
 </p>
