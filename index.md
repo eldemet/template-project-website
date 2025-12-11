@@ -27,11 +27,9 @@ permalink: /
 <section class="highlights">
   <h2>What is SPRING?</h2>
   <p class="section-intro">
-    SPRING is a Marie Skłodowska-Curie Doctoral Network that brings together universities,
-    research institutes and industrial partners to train 15 Doctoral Candidates (DCs) in the
-    modelling, design and operation of resilient, cyber-secure large-scale critical infrastructures.
-    The network focuses on anticipatory self-adaptation, human-interpretable diagnosis and
-    risk-aware incident response in geographically distributed systems of cyber-physical systems.
+    SPRING is a Marie Skłodowska-Curie Doctoral Network that brings together universities, research institutes and industrial partners to train 15 Doctoral Candidates (DCs) in the modelling, design and operation of resilient, cyber-secure large-scale critical infrastructures.
+
+    The network focuses on anticipatory self-adaptation, human-interpretable diagnosis and risk-aware incident response in geographically distributed systems of cyber-physical systems.
   </p>
 </section>
 
