@@ -1,25 +1,29 @@
-# SPRING Doctoral Network – Example GitHub Pages Site
+# SPRING Doctoral Network Website
 
-This is a minimal Jekyll site you can use as a starting point for
-the SPRING (MSCA Doctoral Network) website.
+The official website for the SPRING (MSCA Doctoral Network) project, which focuses on resilience in future large-scale critical infrastructures.
 
-## How to use this example
+## About SPRING
 
-1. Create a new **public** GitHub repository under your organisation or account.
-2. Download the ZIP file from ChatGPT and unzip it locally.
-3. Copy all files and folders into your new repository.
-4. Commit and push the files to GitHub.
-5. Enable **GitHub Pages** in the repository settings (see the detailed steps in the ChatGPT message).
+SPRING is a Marie Skłodowska-Curie Actions (MSCA) Doctoral Network under Horizon Europe that trains 15 Doctoral Candidates in the resilience design, real-time monitoring and control, anomaly detection and isolation, and incident response of geographically distributed systems of cyber-physical systems.
 
-Once GitHub Pages is enabled, the site will be built automatically and
-served at a URL like:
+The project addresses critical infrastructures in domains such as energy, water, and transportation, developing methods and tools to help these systems anticipate disruptions, withstand them, adapt safely, and recover quickly.
 
-- `https://<user>.github.io/<repo>/` (default), or
-- your custom domain (e.g. `https://spring-project.eu`) if you point DNS
-  records to GitHub and configure the domain in the Pages settings.
+## Website Contents
 
-You can then edit the content in place:
+**Home** – Overview of the SPRING project, its mission, and latest news updates from the network.
 
-- `_posts/` for news
-- `project.md`, `doctoral-projects.md`, `people.md`, etc. for the main pages
-- `assets/css/style.css` to adjust the look & feel
+**The Project** – Detailed information about SPRING's objectives and seven work packages covering allostasis-like anticipatory self-adaptability, human-interpretable diagnosis, real-time risk-aware incident response, reference scenarios and testbeds, recruitment and training, communication and dissemination, and project coordination.
+
+**Doctoral Projects** – Information about all 15 Doctoral Candidate (DC) positions, each hosted by one of the beneficiary institutions. Projects cover topics including physics-informed adversarial robustness, formal methods for resilient-by-design systems, explainable AI, anomaly detection, distributed resilience response, digital twin architectures, and safety-critical machine learning systems.
+
+**People** – Contact information for the coordination and management team, list of beneficiary institutions (academic and industrial partners), and associated partners that contribute use cases, secondments, testbeds, and training opportunities.
+
+**Training & Events** – Information about SPRING training activities and network-wide events.
+
+**Outputs** – Public outputs from the project, including scientific publications, deliverables, software, datasets, and outreach materials.
+
+**Contact** – Contact information for general enquiries about the SPRING Doctoral Network.
+
+## Funding
+
+This project has received funding from the European Union's Horizon Europe research and innovation programme under the Marie Skłodowska-Curie Actions Doctoral Networks (Grant Agreement No. 101227080 – SPRING).
