@@ -13,16 +13,19 @@ permalink: /
   <p class="hero-meta">
     Marie Skłodowska-Curie Actions (MSCA) Doctoral Network – Grant Agreement No. 101227080
   </p>
-  <p>
+  <div class="hero-actions">
     <a href="{{ '/doctoral-projects/' | relative_url }}" class="button">
       View doctoral projects (DC1–DC15)
     </a>
-  </p>
+    <a href="{{ '/project/' | relative_url }}" class="button-secondary">
+      Learn more about the project
+    </a>
+  </div>
 </section>
 
 <section class="highlights">
   <h2>What is SPRING?</h2>
-  <p>
+  <p class="section-intro">
     SPRING brings together universities, research institutes and industry partners to train 15
     Doctoral Candidates (DCs) in the modelling, design and operation of resilient, cyber-secure
     large-scale critical infrastructures.
