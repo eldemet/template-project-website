@@ -1,7 +1,10 @@
 title: "SPRING Doctoral Network"
 description: "SPRING: Doctoral Network for resilience experts in future large-scale critical infrastructures."
-baseurl: "" 
-url: "" 
+
+# IMPORTANT for GitHub project pages:
+url: "https://eldemet.github.io"          # your GitHub user/org URL
+baseurl: "/template-project-website"      # repo name, with leading /
+
 markdown: kramdown
 theme: null
 plugins: []
